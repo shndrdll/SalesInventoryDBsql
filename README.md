@@ -9,7 +9,7 @@ Features:
 
 -Ideal for practicing SQL relationships, constraints, and data operations
 
-👩‍💻 Author: Shandara Mae De Las Llagas
+Author: Shandara Mae De Las Llagas
 
 -- SCREENSHOTS
 
